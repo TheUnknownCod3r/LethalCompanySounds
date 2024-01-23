@@ -1,0 +1,5 @@
+{
+  "name": "Unity.VisualEffectGraph.Runtime",
+  "references": [],
+  "allowUnsafeCode": true
+}
